@@ -1,0 +1,10 @@
+d316a55554e55157fd1e64e92b88033f *DESCRIPTION
+201788e22d18f4fad42ddccff9372f29 *NAMESPACE
+9ddf718f0aea709e616609ac4e26c0a2 *R/get_moments.R
+bb44878d4125eb2ce5ddf7bb57c21cee *R/nlsy.R
+a4567695b680d61fcdb748dd648facbf *R/print.srmr.R
+becebf344b6121962decce6e6e1e33cf *R/srmr.R
+be429caeaa7992abe501fb512c8d7d7b *R/summary.srmr.R
+5b8b7f10d90bff23020078151a13d49e *data/nlsy.rda
+c390e2b4138a1f84d7e80f5976ccc9a1 *man/nlsy.Rd
+446ef9da0a5031a40618a7f25ddc9f82 *man/srmr.Rd
